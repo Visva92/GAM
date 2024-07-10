@@ -9,3 +9,4 @@ httplib2>=0.17.0
 passlib>=1.7.2
 python-dateutil
 yubikey-manager>=4.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
