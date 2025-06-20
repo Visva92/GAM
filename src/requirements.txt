@@ -9,3 +9,5 @@ httplib2>=0.17.0
 passlib>=1.7.2
 python-dateutil
 yubikey-manager>=4.0.0
+protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
